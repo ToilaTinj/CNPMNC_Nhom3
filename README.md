@@ -25,7 +25,7 @@
 
 ### <b><Code> • Thông tin, kế hoạch và tiến độ dự án đang thực hiện </code></b>
 
-Đây là link bao gồm Project Information, Team, Product Backlog, Sprint Backlog của nhóm em: [Nhom3_Excel]
+
 
 Hiện tại các sprint đang có bao gồm:
 
