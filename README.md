@@ -6,11 +6,13 @@
 
 ###
 
-<p align="left">This is a small project from Team 3 to you</p>
+<p align="left">
+  <span class="animated-text">This is a small project from Team 3 to you</span>
+</p>
 
 ###
-###
-#<mark> CNPMNC-Nhóm 3 </mark>
+
+### CNPMNC-Nhóm 3 
 <ins> Bảng điểm từng thành viên qua các sprint: </code>
 
 | Họ tên | Sprint 1 | Sprint 2 | Sprint 3 | API |
@@ -20,29 +22,24 @@
 | Nguyễn Duy Tài | 8 | 8 | 9 | 10 |
 | Tô Thái Hạo | 9 | 8 | 10 | 8 |
 | Phạm Hoàng Thái | 8 | 10 | 8 | 9 |
-###
-###
-<b><Code> • Thông tin, kế hoạch và tiến độ dự án đang thực hiện </code></b>
+
+### <b><Code> • Thông tin, kế hoạch và tiến độ dự án đang thực hiện </code></b>
 
 Đây là link bao gồm Project Information, Team, Product Backlog, Sprint Backlog của nhóm em: [Nhom3_Excel]
 
-Hiện tại các sprint đang có bao gồm: 
+Hiện tại các sprint đang có bao gồm:
 
-Sprint 1:
-Planning, Review, Report 
+Sprint 1: Planning, Review, Report
 
-Sprint 2:
-Planning, Review, Report 
+Sprint 2: Planning, Review, Report
 
-Sprint 3:
-Planning, Review, Report
+Sprint 3: Planning, Review, Report
 
-Sprint API:
-Planning, Review, Report
+Sprint API: Planning, Review, Report
+
 ###
+
 <p align="left">Language and tools</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -66,4 +63,15 @@ Planning, Review, Report
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmR2NzlvYzVjeGIzY3c3aDA3ajJhdW50bThqdm9rcDdkNTFwZzVtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/12qxR8tbj3qvq23V7z/giphy.gif"  />
 </div>
 
-###
+<style>
+  .animated-text {
+    display: inline-block;
+    animation: color-change 3s infinite alternate;
+  }
+
+  @keyframes color-change {
+    0% { color: #3498db; }
+    50% { color: #9b59b6; }
+    100% { color: #e74c3c; }
+  }
+</style>
