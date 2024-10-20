@@ -2,7 +2,15 @@
 
 ###
 
-<h2 align="center">👩‍💻  About My Team - Team 3</h2>
+<h1 style="color:red; animation: blinker 1s linear infinite;">👩‍💻  About My Team - Team 3</h1>
+
+<style>
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+</style>
 
 ###
 
