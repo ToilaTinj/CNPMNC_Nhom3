@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">👩‍💻  About My Team - Team 3</h2>
+<h2 align="center">👩‍💻 Some Information About My Team - Team 3</h2>
 
 ###
 
