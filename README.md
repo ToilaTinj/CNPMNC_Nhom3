@@ -1,34 +1,39 @@
-# <mark> CNPMNC-Nhóm 3 </mark>
-<ins> Bảng điểm từng thành viên qua các sprint: </code>
+<h1 align="center">Hello there 👋</h1>
 
-| Họ tên | Sprint 1 | Sprint 2 | Sprint 3 | API |
-|---|---|---|---|---|
-| Nguyễn Thành Tịnh | ? | ? | ? | - |
-| Lai Phúc Đạt | ? | ? | ? | - |
-| Nguyễn Duy Tài | ? | ? | ? | - |
-| Tô Thái Hạo | ? | ? | ? | - |
-| Phạm Hoàng Thái | ? | ? |  | - |
- 
-<b><code> • Giới yêu cầu phần mềm của dự án </code></b>
+###
 
+<h2 align="center">👩‍💻  About My Team - Team 3</h2>
 
-Đây là link mô tả yêu cầu phần mềm của dự án nhóm chúng em: 
+###
 
+<p align="left">This is a small project from Team 3 to you</p>
 
-<b><Code> • Thông tin, kế hoạch và tiến độ dự án đang thực hiện </code></b>
+###
 
+<p align="left">Language and tools</p>
 
+###
 
-Hiện tại các sprint đang có bao gồm: 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-Sprint 1:
-Planning, Review, Report 
+###
 
-Sprint 2:
-Planning, Review, Report 
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmR2NzlvYzVjeGIzY3c3aDA3ajJhdW50bThqdm9rcDdkNTFwZzVtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/12qxR8tbj3qvq23V7z/giphy.gif"  />
+</div>
 
-Sprint 3:
-Planning, Review, Report 
-
-<b><Code> • Thiết kế dự án </code></b>
-
+###
