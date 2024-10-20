@@ -63,15 +63,4 @@ Sprint API: Planning, Review, Report
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmR2NzlvYzVjeGIzY3c3aDA3ajJhdW50bThqdm9rcDdkNTFwZzVtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/12qxR8tbj3qvq23V7z/giphy.gif"  />
 </div>
 
-<style>
-  .animated-text {
-    display: inline-block;
-    animation: color-change 3s infinite alternate;
-  }
 
-  @keyframes color-change {
-    0% { color: #3498db; }
-    50% { color: #9b59b6; }
-    100% { color: #e74c3c; }
-  }
-</style>
