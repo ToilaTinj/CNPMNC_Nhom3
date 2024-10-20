@@ -21,7 +21,25 @@
 | Tô Thái Hạo | 9 | 8 | 10 | 8 |
 | Phạm Hoàng Thái | 8 | 10 | 8 | 9 |
 ###
+###
+<b><Code> • Thông tin, kế hoạch và tiến độ dự án đang thực hiện </code></b>
 
+Đây là link bao gồm Project Information, Team, Product Backlog, Sprint Backlog của nhóm em: [Nhom3_Excel]
+
+Hiện tại các sprint đang có bao gồm: 
+
+Sprint 1:
+Planning, Review, Report 
+
+Sprint 2:
+Planning, Review, Report 
+
+Sprint 3:
+Planning, Review, Report
+
+Sprint API:
+Planning, Review, Report
+###
 <p align="left">Language and tools</p>
 
 ###
