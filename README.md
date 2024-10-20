@@ -1,7 +1,7 @@
 # <mark> CNPMNC-Nhóm 3 </mark>
 <ins> Bảng điểm từng thành viên qua các sprint: </code>
 
-| Họ tên | Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 |
+| Họ tên | Sprint 1 | Sprint 2 | Sprint 3 | API |
 |---|---|---|---|---|
 | Nguyễn Thành Tịnh | ? | ? | ? | - |
 | Lai Phúc Đạt | ? | ? | ? | - |
