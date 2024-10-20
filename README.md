@@ -10,7 +10,7 @@
 
 ###
 ###
-<mark> CNPMNC-Nhóm 3 </mark>
+#<mark> CNPMNC-Nhóm 3 </mark>
 <ins> Bảng điểm từng thành viên qua các sprint: </code>
 
 | Họ tên | Sprint 1 | Sprint 2 | Sprint 3 | API |
