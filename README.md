@@ -18,7 +18,7 @@
 | Họ tên | Sprint 1 | Sprint 2 | Sprint 3 | API |
 |---|---|---|---|---|
 | Nguyễn Thành Tịnh | 10 | 9 | 10 | 10 |
-| Lai Phúc Đạt | 9 | 10 | 9 | 10 |
+| Lai Phúc Đạt | 10 | 10 | 9 | 10 |
 | Nguyễn Duy Tài | 8 | 8 | 8 | 7 |
 | Tô Thái Hạo | 9 | 8 | 10 | 8 |
 | Phạm Hoàng Thái | 8 | 10 | 8 | 9 |
