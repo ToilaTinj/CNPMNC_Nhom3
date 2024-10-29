@@ -16,11 +16,11 @@
 <ins> Bảng điểm từng thành viên qua các sprint: </code>
 
 | Họ tên | Sprint 1 | Sprint 2 | Sprint 3 |
-|---|---|---|---|---|
+|---|---|---|---|
 | Nguyễn Thành Tịnh | 10 | 9 | 10 |
 | Lai Phúc Đạt | 10 | 10 | 9 |
-| Nguyễn Duy Tài | 8 | 8 | 8 |
-| Tô Thái Hạo | 9 | 8 | 10 |
+| Nguyễn Duy Tài | 8 | 8 | 7 |
+| Tô Thái Hạo | 8 | 8 | 10 |
 | Phạm Hoàng Thái | 8 | 10 | 8 |
 
 ### <b><Code> • Thông tin, kế hoạch và tiến độ dự án đang thực hiện </code></b>
